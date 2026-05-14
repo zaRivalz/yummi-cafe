@@ -33,12 +33,8 @@ export default function Instagram() {
           <FlowerDivider />
         </SectionWrapper>
 
-        {widgetId ? (
+        {widgetId && (
           <div id={widgetId} />
-        ) : (
-          <div className="text-center py-10 text-charcoal/40 text-sm">
-            Instagram feed — configure NEXT_PUBLIC_BEHOLD_WIDGET_ID to display posts.
-          </div>
         )}
 
         <SectionWrapper delay={0.2} className="text-center mt-10">
