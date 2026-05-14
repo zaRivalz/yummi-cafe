@@ -109,7 +109,7 @@ Whimsical floral romance. Inspired directly by the cafe's interior: large painte
 - Scrambled Eggs & Cheese R30; Scrambled Egg, Tomato & Cucumber R35; Avocado & Feta Cheese R35; Chicken Mayo & Turkish Avo R40; Tuna Mayo, Tomato & Mozzarella R40
 
 *Jaffles:*
-- Chicken, Mince, Bacon & Eggs (prices from reference)
+- Chicken R35; Mince R35; Bacon & Eggs R40
 
 *Breakfast (All Day):*
 - Eggs on Toast R60; French Toast R35; Avo on Toast R60; Yummi's Special R75; Mixed Breakfast
