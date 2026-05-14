@@ -2,7 +2,7 @@
 
 Marketing website for Yummi Café, Stellenbosch — built with Next.js, Tailwind CSS, and Framer Motion.
 
-**Live site:** _(update after Vercel deployment)_
+**Live site:** [yummi-cafe.vercel.app](https://yummi-cafe.vercel.app)
 
 ## Stack
 
